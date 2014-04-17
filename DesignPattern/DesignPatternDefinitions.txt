@@ -1,0 +1,6 @@
+Builder-good to use when you want to create a complex object and don't want a complex constructor.
+You create a second object whose functions define the first object.
+
+Facade-hides complicated stuff by wrapping it in more simple functions.
+For example, you want to call a bunch of functions from different classes at once.  
+Instead of calling them, you make another class that has a function to call all of those functions.
